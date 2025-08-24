@@ -37,7 +37,7 @@ Nella **root del gioco** (la stessa cartella dove si trova l’`exe` del gioco) 
     ├── 0Harmony.dll
     ├── ItLocStandalone.dll
     └── multilingua.tsv
-
+```
 
 
 - `winhttp.dll` → libreria necessaria per caricare la traduzione  
