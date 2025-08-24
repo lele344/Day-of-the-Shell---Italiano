@@ -24,18 +24,20 @@ Si aprirà la cartella principale del gioco (root).
 ---
 
 ## ⚙️ Installazione
+
 Nella **root del gioco** (la stessa cartella dove si trova l’`exe` del gioco) devi copiare i seguenti file e cartelle:
 
-
+```text
 📂 Day of the Shell
 ├── DayOfTheShell.exe
 ├── winhttp.dll
 ├── doorstop_config.ini
 ├── .doorstop_version
 └── 📂 ItLocStandalone
-├── 0Harmony.dll
-├── ItLocStandalone.dll
-└── multilingua.tsv
+    ├── 0Harmony.dll
+    ├── ItLocStandalone.dll
+    └── multilingua.tsv
+
 
 
 - `winhttp.dll` → libreria necessaria per caricare la traduzione  
